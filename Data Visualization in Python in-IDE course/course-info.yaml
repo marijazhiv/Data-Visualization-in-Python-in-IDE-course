@@ -1,0 +1,17 @@
+type: marketplace
+title: Data Visualization in Python in-IDE course
+language: English
+summary: |-
+  Overview
+  In this project, you will learn how to visualize data using Python by creating a single bar chart that displays the number of games per genre across four popular gaming platforms: PS4, Xbox One (XOne), PC, and WiiU. This project is designed to help you understand how to filter, aggregate, and visualize data, using libraries like pandas for data manipulation and matplotlib for plotting.
+
+  You are given a dataset containing information about various games, including their genres and platforms. Your goal is to transform this data and present it in a clear and informative chart that compares the number of games available in each genre across the specified platforms.
+programming_language: Python
+environment: unittest
+content:
+  - lesson1
+  - lesson2
+  - lesson3
+  - lesson4
+  - lesson5
+  - lesson6
